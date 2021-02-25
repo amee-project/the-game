@@ -7,5 +7,6 @@ This client needs to access an existing Maze Server (see http://github.com/amee-
  * Download the repo
  * Install dependencies (`$ npm install`)
  * Run the client (`$ node app.js`)
+ * Load the HTML UI (`http://localhost:3000/index.html`)
  * Explore!
 
